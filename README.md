@@ -2,7 +2,7 @@
 Displaying relative information about universe of Ice and Fire &amp; A game of thrones 😎
 
 Hi🖐,
- I created simple web app that display the API data from ICE and FIRE API ✨.Please download and have a look to explore more.
+ I created simple web app that displays the API data from ICE and FIRE API ✨.Please download and have a look to explore more.
 
 Info😊:
 1. I used create-react-app to get Started
