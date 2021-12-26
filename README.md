@@ -14,11 +14,11 @@ Info😊:
 7. you can try by downloading here.
 
 References💻:
-API:https://anapioficeandfire.com/
+API:https://anapioficeandfire.com/ ,
 API documenttation:https://anapioficeandfire.com/Documentation
 
 Refence while building app:
-https://watchmojo.com/video/id/19384
+https://watchmojo.com/video/id/19384 ,
 https://awoiaf.westeros.org/index.php/Main_Page
 
 Thanks,
