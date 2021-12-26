@@ -1,0 +1,11 @@
+.viewChar {
+  padding: 0.55rem;
+  border-radius: 1rem;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  box-shadow: none;
+}
+.books {
+  padding-bottom: 2rem;
+}

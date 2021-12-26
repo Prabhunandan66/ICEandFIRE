@@ -1,0 +1,9 @@
+.Startdesc {
+  padding: 5%;
+  font-size: 1.6rem;
+  padding-bottom: 0%;
+}
+.container {
+  overflow-y: auto;
+  margin-bottom: 2%;
+}

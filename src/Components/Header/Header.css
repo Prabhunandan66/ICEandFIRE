@@ -1,0 +1,14 @@
+.Header {
+  background: black;
+  text-align: center;
+  color: turquoise;
+}
+h1 {
+  margin: 0%;
+  padding: 1.5rem;
+  border-bottom: 5px solid darkorange;
+}
+img {
+  width: 3rem;
+  height: 2rem;
+}

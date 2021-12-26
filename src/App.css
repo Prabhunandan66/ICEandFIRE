@@ -1,0 +1,32 @@
+.overview {
+  padding: 2rem;
+  text-align: center;
+}
+.overviewDesc {
+  font-size: 1.6em;
+  text-align: justify;
+}
+.footer {
+  text-align: center;
+  background-color: black;
+  color: turquoise;
+}
+.explore {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+button {
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: lightblue;
+  box-shadow: 5px 5px 6px darkorange;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+button:hover {
+  background-color: darkorange;
+  box-shadow: 5px 5px 2px lightblue;
+}

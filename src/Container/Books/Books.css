@@ -1,0 +1,39 @@
+.booksBox {
+  margin: 1%;
+  text-align: center;
+}
+.books {
+  display: grid;
+  grid-template-columns: 19% 19% 19% 19% 19%;
+  gap: 1%;
+  border-radius: 2rem;
+}
+.book {
+  text-align: center;
+  margin: 1%;
+  background: lightblue;
+  margin: 5%;
+  border: 4px solid black;
+  padding: 3%;
+  border-radius: 2rem;
+  box-shadow: 10px 10px 10px darkorange;
+}
+
+@media only screen and (max-width: 540px) {
+  .books {
+    display: block;
+    justify-content: center;
+    border-radius: 2rem;
+  }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 540px) {
+  .books {
+    display: grid;
+    grid-template-columns: 48% 48%;
+    gap: 1%;
+    justify-content: center;
+    border-radius: 2rem;
+    margin-bottom: 4rem;
+  }
+}
